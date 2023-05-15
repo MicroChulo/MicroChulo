@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MicroChulo
 - 👀 I’m interested in videogames and making them
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and also how to use github, this confusing af
 - 💞️ I’m looking to collaborate on idk, whatever works
 - 📫 How to reach me darealmicrochulo@gmail.com or ilikefunnypjs@gmail.com 
 
